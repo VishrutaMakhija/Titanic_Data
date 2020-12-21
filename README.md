@@ -3,3 +3,5 @@ Performed Analaysis on the Titanic Dataset to implemented predictive model to fu
 1. Performed Data Cleaning which includes Treating Missing values, Outliers and Categorical Data
 2. Created different Predictive Models: Gradient Boosting, Logistic Regression and Decision Tree
 3. Performed Hyperparameter tuning
+
+Packages Used: Pandas, NumPy, MatplotLib (PyPlot), Seaborn, Sklearn (Decision Tree, Gradient Boosting, Logistic Regression, classification report).
